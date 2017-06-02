@@ -19,6 +19,9 @@ service: makeatoolforme
 
 provider:
   name: aws
+  environment:
+    USER_POOL_ID: us-east-1_SRiZCyL1h
+    USER_POOL_CLIENT_ID: 274hktiaelg8nmes64nvlaajrp
   runtime: nodejs6.10
 
 # you can overwrite defaults here
@@ -55,8 +58,10 @@ provider:
 #    - exclude-me-dir/**
 
 functions:
-  hello:
-    handler: handler.hello
+  signup:
+    handler: handler.signup
+    events:
+      - http: POST users
 
 #    The following are a few example events you can configure
 #    NOTE: Please make sure to change your handler code to work with those events

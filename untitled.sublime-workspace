@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"current",
+				"currentActionValues"
+			],
+			[
+				"Custom",
+				"CustomBadge"
+			],
+			[
+				"currentAction",
+				"currentActionValues"
+			],
+			[
+				"shipping",
+				"shippingMethods"
+			],
+			[
+				"curren",
+				"currentActionValues"
+			],
+			[
+				"currentAct",
+				"currentActionValueStatuses"
+			],
+			[
+				"Purcase",
+				"PurchaseStart"
+			],
+			[
+				"actionv",
+				"currentActionValues"
+			],
+			[
+				"loading",
+				"loadingAnimation"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "serverless.yml",
+			"settings":
+			{
+				"buffer_size": 2826,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "handler.js",
+			"settings":
+			{
+				"buffer_size": 881,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/aws-sdk/clients/cognitoidentityserviceprovider.js",
+			"settings":
+			{
+				"buffer_size": 721,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"elm-for",
+				"Elm Language Support: Run elm-format"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 552.0
+	},
+	"console":
+	{
+		"height": 687.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nvaldes/makeatoolforme-backend",
+		"/Users/nvaldes/makeatoolforme-backend/node_modules/aws-sdk/clients"
+	],
+	"file_history":
+	[
+		"/Users/nvaldes/makeatoolforme-backend/package.json",
+		"/Users/nvaldes/Desktop/promo_report.sql",
+		"/Users/nvaldes/massedit/Gruntfile.js",
+		"/Users/nvaldes/massedit/karma.conf.js",
+		"/Users/nvaldes/massedit/client/components/api/api.service.js",
+		"/Users/nvaldes/massedit/client/app/batch/batch.html",
+		"/Users/nvaldes/massedit/client/app/batch/batch.controller.js",
+		"/Users/nvaldes/massedit/client/components/cwl/cwl.service.js",
+		"/Users/nvaldes/massedit/client/components/cwl/cwl.html",
+		"/Users/nvaldes/massedit/client/bower_components/angular-bootstrap/bower.json",
+		"/Users/nvaldes/massedit/client/components/alerts/alerts.html",
+		"/Users/nvaldes/massedit/bower.json",
+		"/Users/nvaldes/massedit/package.json",
+		"/Users/nvaldes/Desktop/photostudio.mobileconfig",
+		"/Users/nvaldes/Desktop/scripts/purchase_start.rb",
+		"/Users/nvaldes/Desktop/scripts/purchase-start_20170420161406.csv",
+		"/Users/nvaldes/massedit/client/app/sequential/sequential.html",
+		"/Users/nvaldes/massedit/client/app/search/search.controller.js",
+		"/Users/nvaldes/massedit/client/app/search/search.controller.spec.js",
+		"/Users/nvaldes/massedit/client/app/sequential/sequential.controller.js",
+		"/Users/nvaldes/massedit/client/components/api/api.service.spec.js",
+		"/Users/nvaldes/massedit/dist/client/index.html",
+		"/Users/nvaldes/massedit/client/app/sequential/sequential.controller.spec.js",
+		"/Users/nvaldes/massedit/subtree.sh",
+		"/Users/nvaldes/massedit/client/components/cwl/cwl.controller.js",
+		"/Users/nvaldes/massedit/coverage/client/PhantomJS 2.1.1 (Mac OS X 0.0.0)/index.html",
+		"/Users/nvaldes/massedit/README.md",
+		"/Users/nvaldes/gsportal/app/assets/stylesheets/application.scss",
+		"/Users/nvaldes/gsportal/app/assets/javascripts/app.js",
+		"/Users/nvaldes/gsportal/Capfile",
+		"/Users/nvaldes/gsportal/elm-package.json",
+		"/Users/nvaldes/gsportal/config/environments/staging.rb",
+		"/Users/nvaldes/gsportal/Gemfile.lock",
+		"/Users/nvaldes/gsportal/app/assets/elm/Massedit/Types.elm",
+		"/Users/nvaldes/gsportal/app/assets/elm/Massedit/types.elm",
+		"/Users/nvaldes/gsportal/Gemfile",
+		"/Users/nvaldes/gsportal/app/models/fit_guide.rb",
+		"/Users/nvaldes/gsportal/app/models/shipping_method.rb",
+		"/Users/nvaldes/gsportal/app/models/category.rb",
+		"/Users/nvaldes/gsportal/app/models/product.rb",
+		"/Users/nvaldes/gsportal/app/models/e1_class.rb",
+		"/Users/nvaldes/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/nvaldes/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/nvaldes/gsportal/config/application.rb",
+		"/Users/nvaldes/gsportal/app/models/e1_classification.rb",
+		"/Users/nvaldes/Library/Application Support/Sublime Text 3/Packages/Elm Language Support/Settings/Elm Language Support.sublime-settings",
+		"/Users/nvaldes/Library/Application Support/Sublime Text 3/Packages/User/Elm Language Support.sublime-settings",
+		"/Users/nvaldes/Library/Application Support/Sublime Text 3/Packages/RuboCop/RuboCop.sublime-settings",
+		"/Users/nvaldes/Library/Application Support/Sublime Text 3/Packages/User/RuboCop.sublime-settings",
+		"/Users/nvaldes/gsportal/app/controllers/massedit/api_controller.rb",
+		"/Users/nvaldes/gsportal/app/assets/elm/Tools/Massedit.elm",
+		"/Users/nvaldes/.rbenv/versions/2.4.0/lib/ruby/2.4.0/rubygems/ssl_certs/rubygems.org/c21stores-NJ-95-CORPCA01-CA.pem",
+		"/Users/nvaldes/.rbenv/versions/2.4.0/lib/ruby/2.4.0/rubygems/ssl_certs/index.rubygems.org/c21stores-NJ-95-CORPCA01-CA.pem",
+		"/Users/nvaldes/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nvaldes/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/nvaldes/signature.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"karma",
+			"true",
+			") ",
+			"1",
+			"\"form-group\" ++ (hasError <| List.isEmpty errorMessage)",
+			"Task",
+			"isEmpty ",
+			"filter ",
+			"map ",
+			"set ",
+			"set",
+			"get ",
+			"tail",
+			"head",
+			"member",
+			"reverse",
+			"Decode",
+			"Encode",
+			"Dict",
+			"Date.",
+			"second",
+			"first",
+			"toTitleCase",
+			"split",
+			"join",
+			"lines",
+			"Html msg",
+			" get",
+			"Msg",
+			"targetValue",
+			"Value",
+			"decodeString",
+			"list",
+			" list",
+			"list",
+			"Decoder",
+			"dict",
+			"decodeString",
+			"Decoder",
+			"regex",
+			"contains",
+			"currentActionValueStatuses",
+			"\n                        ",
+			"Categorize",
+			"head",
+			"split",
+			"( +), onInput SetThirdActionValue",
+			"( +), onInput SetFirstActionValue",
+			"( +), onInput SetSecondActionValue",
+			"errorMessage",
+			"\"(\\w+)\" -> Decode.succeed \\n",
+			")\n",
+			"string",
+			"|",
+			"table",
+			"td",
+			"searchResultscount",
+			"numResults = (.*)",
+			"searchResults =",
+			"searchResults = Array.empty",
+			"Array.length",
+			"ChangeSTep",
+			"stepLinkRow",
+			"      \n",
+			"E1_Class",
+			"Classification",
+			"SearchResults",
+			"\"([^#'\\n]+)\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"(\"form-group\" ++ (hasError <| List.isEmpty errorMessage))",
+			"Html Msg",
+			" Array.get",
+			"msg",
+			"$1, onInput SetThirdActionValue\\n$1, value <| withDefault \"\" <| get 2 model.currentActionValues",
+			"$1, onInput SetFirstActionValue\\n$1, value <| withDefault \"\" <| get 0 model.currentActionValues",
+			"$1, onInput SetSecondActionValue\\n$1, value <| withDefault \"\" <| get 1 model.currentActionValues",
+			"\"$1\" -> Decode.succeed $1\\n",
+			", actionOption",
+			"countBadge",
+			"numResults = $1\\n, numProducts = $1",
+			"E1Class",
+			"Class",
+			"'$1'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "serverless.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 399.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "handler.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								582,
+								582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "node_modules/aws-sdk/clients/cognitoidentityserviceprovider.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
