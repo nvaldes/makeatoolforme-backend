@@ -17,11 +17,14 @@ service: makeatoolforme
 # Check out our docs for more details
 # frameworkVersion: "=X.X.X"
 
+plugins:
+  - serverless-offline
+
 provider:
   name: aws
   environment:
-    USER_POOL_ID: us-east-1_SRiZCyL1h
-    USER_POOL_CLIENT_ID: 274hktiaelg8nmes64nvlaajrp
+    USER_POOL_ID: us-east-1_eKO8vSLN1
+    USER_POOL_CLIENT_ID: 30r7469j6c7ibuvsn1s5bktfpk
   runtime: nodejs6.10
 
 # you can overwrite defaults here
